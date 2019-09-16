@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+}
+p {
+    background-color: rgb(10, 214, 54);
+}
+a {
+    text-decoration: underline wavy
+}
+table,th,td {border: 1px solid orchid}
+table{
+    border-collapse: collapse
+
+}
+th,td {
+    padding: 25px
+}
+th, td {
+    text-align: right
+}
+ul{
+
+    list-style-type: nones;
+}
+#harmadik {
+    color: rgb(255,47,120) /*class többre, id 1 re*/
+}
+.második{
+    background-color: red
+}
+.jobbrazar {
+    text-align: right
+}
